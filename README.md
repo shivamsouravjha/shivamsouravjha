@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shivam Sourav Jha</h1>
 <h3 align="center">A passionate ML engineer from India</h3>
 
@@ -9,9 +8,9 @@
 
 - 📫 How to reach me **shivamsouravjha@gmail.com**
 
-- ⚡ Fun fact **I don't believe GOT season was ever made.**
+- ⚡ Fun fact **I don't believe GOT season 8 was ever made.**
 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamsouravjha&layout=compact" alt="shivamsouravjha" /></p>
 
