@@ -7,8 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsouravjha" alt="shivamsouravjha" /></a> </p>
 
 - 🔭 I’m currently working on [Lightning-McQueen](https://github.com/shivamsouravjha/Lightning-McQueen)
-- 
-- 🔭 View my Portfolio at [Fort Of Poles](https://shivamsouravjha.github.io/Fort-of-poles/)
 
 - 🌱 I’m currently learning **MERN Stack**
 
