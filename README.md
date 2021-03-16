@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shivam Sourav Jha</h1>
 <h3 align="center">A passionate Fullstack Developer from India</h3>
-<img src="https://cdn4.geckoandfly.com/wp-content/uploads/2015/04/game-of-thrones-quotes-11.jpg">
+<img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamsouravjha&label=Profile%20views&color=0e75b6&style=flat" alt="shivamsouravjha" /> </p>
 
