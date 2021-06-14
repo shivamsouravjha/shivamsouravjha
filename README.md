@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **shivamsouravjha@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yR4PlbMi14HbmwHqemH8QbSagYf1QzL3/view](https://drive.google.com/file/d/1yR4PlbMi14HbmwHqemH8QbSagYf1QzL3/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1g-a_jYA1p0nkez8pmch_PZykaUUSKMH5/view?usp=sharing](Drive Link for Resume)
 
 - ⚡ Fun fact **I don't believe GOT season 8 was ever made.**
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsouravjha&show_icons=true&locale=en" alt="shivamsouravjha" /></p>
