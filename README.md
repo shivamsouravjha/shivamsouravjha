@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamsouravjha" alt="shivamsouravjha" /></a> </p>
 
-- 🔭 I’m currently working on [Lightning-McQueen](https://github.com/shivamsouravjha/Lightning-McQueen)
+- 🔭 I’m currently working on [Stooler](https://github.com/shivamsouravjha/Stooler)
  
 - ⚡ View my Portfolio at [Fort of Poles](https://shivamsouravjha.github.io/Fort-of-poles/)
  
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Java Spring Boot**
 
 - 👯 I’m looking to collaborate on [Meme_Yogi](https://github.com/shivamsouravjha/Meme_Yogi)
 
-- 🤝 I’m looking for help with [shawn-the-sheep](https://github.com/shivamsouravjha/shawn-the-sheep)
+- 🤝 I’m looking for help with [shawn-the-sheep](https://github.com/shivamsouravjha/TansSactional)
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsouravjha?tab=repositories](https://github.com/shivamsouravjha?tab=repositories)
 
-- 💬 Ask me about **ML/DL**
+- 💬 Ask me about **Backend Development**
 
 - 📫 How to reach me **shivamsouravjha@gmail.com**
 
