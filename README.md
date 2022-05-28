@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with [shawn-the-sheep](https://github.com/shivamsouravjha/TansSactional)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivamsouravjha?tab=repositories](https://github.com/shivamsouravjha?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/shivamsouravjha?tab=repositories)
 
 - 💬 Ask me about **Backend Development**
 
