@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsouravjha?tab=repositories](https://github.com/shivamsouravjha?tab=repositories)
 
-- 📝 I regulary write articles on [https://medium.com/@ShivamSouravJha.](https://medium.com/@ShivamSouravJha.)
+- 📝 I regulary write articles on [https://medium.com/@ShivamSouravJha.](https://medium.com/@ShivamSouravJha)
 
 - 💬 Ask me about **System Design**
 
