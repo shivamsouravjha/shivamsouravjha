@@ -10,11 +10,7 @@
 
 - 🔭 I’m currently working on [Stooler](https://github.com/shivamsouravjha/Stooler)
 
-- 🌱 I’m currently learning **Java Springboot**
-
-- 👯 I’m looking to collaborate on [ATLANtis](https://github.com/shivamsouravjha/ATLANtis)
-
-- 🤝 I’m looking for help with [TansSactional](https://github.com/shivamsouravjha/TansSactional)
+- 🌱 I’m currently learning **how to survive**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivamsouravjha?tab=repositories](https://github.com/shivamsouravjha?tab=repositories)
 
